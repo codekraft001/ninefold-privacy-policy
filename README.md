@@ -1,4 +1,4 @@
-# Privacy Policy (draft)
+# Privacy Policy
 
 > Draft for you to adapt. It describes what the app does today. This is not legal advice: have it reviewed
 > for the countries you publish in (for example Ghana's Data Protection Act, GDPR for EU users, and the
